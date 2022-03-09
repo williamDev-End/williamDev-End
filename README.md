@@ -4,3 +4,4 @@
 - 💞️ I’m looking to collaborate on YOUR company
 - 📫 How to reach me: 
 william9401@gmail.com
+![curiculum vitae](/williamDev-End/assets/img/WILLIAM NG.jpg)
