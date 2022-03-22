@@ -59,4 +59,4 @@ Actually:
 - 📫 How to reach me: 
 william9401@gmail.com -->
 
-![curiculum vitae](https://github.com/williamDev-End/williamDev-End/blob/main/docs/assets/img/CV_william.jpg)
+![curiculum vitae](./img/CV_william.jpg)
