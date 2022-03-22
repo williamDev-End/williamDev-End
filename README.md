@@ -31,7 +31,7 @@ Actually:
 <br />
 <br />
 
-### 🔥 Recent GitHub Activity
+<!-- ### 🔥 Recent GitHub Activity -->
 <!--START_SECTION:activity-->
 <!-- 1. 🎉 Merged PR [#2](https://github.com/MikeCodeur/react-netflix-clone/pull/2) in [MikeCodeur/react-netflix-clone](https://github.com/MikeCodeur/react-netflix-clone)
 2. 💪 Opened PR [#2](https://github.com/MikeCodeur/react-netflix-clone/pull/2) in [MikeCodeur/react-netflix-clone](https://github.com/MikeCodeur/react-netflix-clone)
