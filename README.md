@@ -59,4 +59,3 @@ Actually:
 - 📫 How to reach me: 
 william9401@gmail.com -->
 
-![curiculum vitae](./img/CV_william.jpg)
