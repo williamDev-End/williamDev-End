@@ -18,4 +18,4 @@ Recently graduated with a Master's degree in Cybersecurity & Cloud Computing, I 
 - **Systems & Scripting:** Linux, Windows Server, Python, JavaScript, Node.js, YAML, SQL
 
 ### 📈 GitHub Stats
-![William's GitHub Stats](https://github-readme-stats.vercel.app/api?username=williamDev-End&show_icons=true&theme=radium)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamDev-End&layout=compact&theme=dark)
