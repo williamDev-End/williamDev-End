@@ -1,5 +1,6 @@
 # Hi there, I'm William 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-dev-end/)
+[📄 Download my Resume (PDF)](./William%20NG%20-%20CV.pdf)
 
 **Cybersecurity & Cloud Infrastructure Engineer**
 
